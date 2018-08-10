@@ -17,7 +17,6 @@
   </metadata>
   <files>
 	<file src="App_Start\**\*" target="App_Start\" />
-	<file src="Areas\**\*" target="Areas\" />
     <file src="bin\**\*" target="bin\" />
 	<file src="Content\**\*" target="Content\" />
     <file src="Controllers\**\*" target="Controllers\" />
