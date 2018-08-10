@@ -24,7 +24,6 @@
     <file src="Models\**\*" target="Models\" />
     <file src="obj\**\*" target="obj\" />
     <file src="Properties\**\*" target="Properties\" />
-	<file src="Providers\**\*" target="Providers\" />
 	<file src="Results\**\*" target="Results\" />
 	<file src="Scripts\**\*" target="Scripts\" />
 	<file src="Views\**\*" target="Views\" />
